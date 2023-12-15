@@ -6,7 +6,7 @@ An implementation of a Physics-Informed Neural Network (PINN) to solve the heat 
 
 This project aims to solve the heat equation using a Physics-Informed Neural Network (PINN). The heat equation is a partial differential equation that describes the distribution of heat over time in a given region. PINNs combine neural networks with physics-based constraints, making them suitable for solving partial differential equations (PDEs) like the heat equation.
 
-![Temp Contour Plot]([https://github.com/your-username/your-repository/blob/main/imgs/contour.png](https://github.com/AlirezaSamari/physics-informed-heat-equation/blob/main/imgs/temp-contour.png))
+![Temp Contour Plot]([https://github.com/AlirezaSamari/physics-informed-heat-equation/blob/main/imgs/temp-contour.png])
 
 
 ## Features
