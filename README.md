@@ -28,4 +28,5 @@ This project aims to solve the heat equation using a Physics-Informed Neural Net
 1. Clone the repository.
 
 ```bash
-git clone https://github.com/your-username/heat-equation-pinn.git
+git clone https://github.com/AlirezaSamari/physics-informed-heat-equation.git
+
